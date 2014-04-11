@@ -41,4 +41,5 @@ public class FizzBuzz {
              resultat = "FIZZ";
         return resultat;
     }
+
 }
